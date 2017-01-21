@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\RandomProj\hisogram\hisogram\bin\Debug\hisogram.exe.config
+C:\Users\PC\Desktop\RandomProj\hisogram\hisogram\bin\Debug\hisogram.exe
+C:\Users\PC\Desktop\RandomProj\hisogram\hisogram\bin\Debug\hisogram.pdb
+C:\Users\PC\Desktop\RandomProj\hisogram\hisogram\obj\Debug\hisogram.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\RandomProj\hisogram\hisogram\obj\Debug\hisogram.exe
+C:\Users\PC\Desktop\RandomProj\hisogram\hisogram\obj\Debug\hisogram.pdb
